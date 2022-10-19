@@ -46,7 +46,7 @@ Existem algumas validações que foram criadas a pedido do desafio como:
 
 <b>Segue a lista de commits para verificar o que foi alterado!</b>
 
-<b>[Certificado do Projeto]()</b>
+<b>[Certificado do Projeto](https://www.dio.me/certificate/C835B0A8/share)</b>
 
 
 ## 👩‍💻 Meus Links:
