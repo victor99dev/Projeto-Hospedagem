@@ -44,8 +44,6 @@ Existem algumas validações que foram criadas a pedido do desafio como:
 - Verificar a capacidade com total de de hóspede.
 - Da um desconto de 10% se caso a hospedagem for igual ou maior que 10 dias.
 
-<b>Segue a lista de commits para verificar o que foi alterado!</b>
-
 <b>[Certificado do Projeto](https://www.dio.me/certificate/C835B0A8/share)</b>
 
 
